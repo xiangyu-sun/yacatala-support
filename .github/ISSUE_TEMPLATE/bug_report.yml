@@ -1,0 +1,51 @@
+name: Bug Report
+description: Something isn't working as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Issues are public.** If your screenshot shows your child's worksheet, name or school, blur or crop it before attaching.
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options:
+        - iPad
+        - iPhone
+    validations:
+      required: true
+  - type: input
+    id: os_version
+    attributes:
+      label: iOS / iPadOS Version
+      placeholder: "e.g. iPadOS 27.0"
+    validations:
+      required: true
+  - type: input
+    id: app_version
+    attributes:
+      label: App Version
+      placeholder: "e.g. 1.0 — find it in the App Store or Settings › Apps"
+    validations:
+      required: true
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what did you get instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open Busca el dibuix in Junts mode
+        2. Answer the grown-up's turn wrongly
+        3. The "Ensenya-l'hi!" card doesn't appear
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Attach a screenshot here if helpful. Blur any personal details first.
