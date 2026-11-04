@@ -1,0 +1,15 @@
+# Files owned by xiangyu-sun/appsites (apps/yacatala). Do not edit.
+.github/ISSUE_TEMPLATE/bug_report.yml
+.github/ISSUE_TEMPLATE/config.yml
+.github/ISSUE_TEMPLATE/feature_request.yml
+.github/workflows/stale.yml
+PRIVACY.md
+README.md
+assets/icon.png
+assets/screenshots/iPad-01-teach.jpg
+assets/screenshots/iPad-02-busca.jpg
+assets/screenshots/iPad-03-rua.jpg
+assets/screenshots/iPad-04-parents.jpg
+index.html
+privacy.html
+style.css
