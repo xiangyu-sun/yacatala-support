@@ -5,6 +5,7 @@
 Bug reports and feature requests for **YaCatala – Catalan Phonics**.
 
 - **Website** → https://xiangyu-sun.github.io/yacatala-support/
+- **Help and common questions** → https://xiangyu-sun.github.io/yacatala-support/support.html
 - **Privacy policy** → https://xiangyu-sun.github.io/yacatala-support/privacy.html
 
 ## File a report
@@ -17,7 +18,7 @@ Before filing, search [existing issues](../../issues) — someone may have alrea
 
 ## Response time
 
-This is an indie, one-person app. I read every report and respond as quickly as I can, typically within a few days.
+This is an indie, one-person app. Every message is read, and most get a reply within a few days.
 
 ## Privacy note
 
