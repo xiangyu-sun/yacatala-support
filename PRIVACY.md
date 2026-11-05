@@ -2,7 +2,7 @@
 
 # Privacy Policy — YaCatala
 
-**Last updated: October 14, 2026**
+**Last updated: November 4, 2026**
 
 YaCatala is built by Xiangyu Sun (sole developer). It is a reading app for young children, played together with a parent, so this policy is short on purpose: **YaCatala collects no data.** Everything it stores stays on your device.
 
@@ -35,9 +35,12 @@ All three are optional and are only used from the **parent area**, which sits be
 - **Image Playground** (on devices with Apple Intelligence) draws missing pictures. It is Apple's system feature and is subject to [Apple's privacy policy](https://www.apple.com/legal/privacy/).
 - Words are spoken with the speech voices built into iOS and iPadOS, on your device.
 
-## Exporting progress
+## Exporting copies
 
-The parent area can export the learning log as a file, **only when you choose to**, through the standard share sheet. The file contains the Catalan words, answers and dates — no names, no photos and no recordings. Where it goes is up to you.
+The parent area can make two files, **only when you choose to**. Each stays on your device until you share it through the standard share sheet, and where it goes is up to you.
+
+- **A copy of the answers** (a JSON file): every answer, the progress and the missions, with the Catalan words and dates. No names, no pictures and no recordings.
+- **A copy of the pages** (a ZIP file): each sound page's words, syllables and pictures — including pictures cut out of worksheet photos — and the word recordings you made.
 
 ---
 
